@@ -4,6 +4,7 @@ This repository contains my solutions to various HackerRank challenges, primaril
 
 * [ ] Warmup Challenges (Easy)
     * [x] Equalize the Array
+    * [x] Repeated String
 * [ ] Implementation Challenges (Medium)
 * [ ] Data Structures (Hard)
 * [ ] Mathematics (Advanced)
